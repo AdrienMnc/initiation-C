@@ -1,0 +1,92 @@
+[
+  {
+    "Id" : "470ea6a3-769a-4ec0-b443-a092925ce618",
+    "Nom": "Vélo de ville",
+    "Marque": "Decathlon",
+    "Modele": "City 500",
+    "Type": "Ville",
+    "Taille": 1,
+    "Couleur": "Lilas",
+    "Prix": 299.99
+  },
+  {
+    "Id" : "4e2f7f67-db3c-4163-bf3b-2fa4fcb71c51",
+    "Nom": "Vélo de route",
+    "Marque": "Giant",
+    "Modele": "Defy 2",
+    "Type": "Route",
+    "Taille": 0,
+    "Couleur": "Noir",
+    "Prix": 899.99
+  },
+  {
+    "Id" : "cc4edc3e-e9d5-40c1-a638-f6a9f2d64e75",
+    "Nom": "Vélo de course",
+    "Marque": "Specialized",
+    "Modele": "Allez Elite",
+    "Type": "Route",
+    "Taille": 1,
+    "Couleur": "Rouge",
+    "Prix": 1299.99
+  },
+  {
+    "Id" : "9620b93d-762d-47a4-aa4f-73bf29dc12d8",
+    "Nom": "VTT",
+    "Marque": "Scott",
+    "Modele": "Aspect 950",
+    "Type": "VTT",
+    "Taille": 2,
+    "Couleur": "Vert",
+    "Prix": 749.99
+  },
+  {
+    "Id" : "11289f16-89bf-43ae-beaa-b9429880385f",
+    "Nom": "VTT",
+    "Marque": "Decathlon",
+    "Modele": "Rockrider 540",
+    "Type": "VTT",
+    "Taille": 0,
+    "Couleur": "Bleu",
+    "Prix": 499.99
+  },
+  {
+    "Id" : "f2a92334-974b-479c-ba28-3cb42a59f665",
+    "Nom": "Vélo pliant",
+    "Marque": "Tern",
+    "Modele": "Link D8",
+    "Type": "Ville",
+    "Taille": 3,
+    "Couleur": "Noir",
+    "Prix": 849.99
+  },
+  {
+    "Id" : "282f0bcf-726d-4611-b942-892e54a498ba",
+    "Nom": "Vélo de randonnée",
+    "Marque": "Surly",
+    "Modele": "Long Haul Trucker",
+    "Type": "Randonnée",
+    "Taille": 1,
+    "Couleur": "Orange",
+    "Prix": 1999.99
+  },
+  {
+    "Id" : "dc0e222c-f8c7-4a38-9d8b-52de4a15da88",
+    "Nom": "Vélo électrique",
+    "Marque": "Cube",
+    "Modele": "Touring Hybrid 500",
+    "Type": "Ville",
+    "Taille": 2,
+    "Couleur": "Gris",
+    "Prix": 2699.99
+  },
+  {
+    "Id" : "62ba26b6-5b2b-48c4-9be1-6c705c8ef758",
+    "Nom": "BMX",
+    "Marque": "Mongoose",
+    "Modele": "Legion L100",
+    "Type": "BMX",
+    "Taille": 0,
+    "Couleur": "Bleu",
+    "Prix": 349.99
+  }
+]
